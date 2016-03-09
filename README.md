@@ -1,2 +1,2 @@
-# Hello-World
-My hello world repository
+# Hello, World
+My first repository WOW, alleluya
