@@ -1,2 +1,2 @@
 # Hello, World
-My first repository, WOW, alleluya
+My first GitHub repository, WOW, alleluya
